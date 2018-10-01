@@ -10,7 +10,9 @@ public class Hello {
 
 	public void methodA(void ) { }
 
-	public void methodB(void) { }
+	public void methodB(void) { 
+		for(int i=0; i <10; i++); 
+	}
 
 	public void methodC(void) { }
 }
