@@ -8,7 +8,9 @@ public class Hello {
 		hello.methodC();
 	}
 
-	public void methodA(void ) { }
+	public void methodA(void ) {
+		System.out.println("Hello!");
+	}
 
 	public void methodB(void) { }
 
