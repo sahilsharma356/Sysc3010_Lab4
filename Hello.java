@@ -16,7 +16,9 @@ public class Hello {
 		for(int i=0; i <10; i++); 
 	}
 
-	public void methodC(void) { }
+	public void methodC(void) { 
+		System.out.println("Yo");
+	}
 }
 
 //sahil sharma
