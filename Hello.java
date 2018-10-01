@@ -16,7 +16,11 @@ public class Hello {
 		for(int i=0; i <10; i++); 
 	}
 
-	public void methodC(void) { }
+	public void methodC(void) {
+		while(0) {
+			
+		} // A comment
+	}
 }
 
 //sahil sharma
