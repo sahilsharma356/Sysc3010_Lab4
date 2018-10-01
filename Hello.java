@@ -18,9 +18,8 @@ public class Hello {
 
 	public void methodC(void) {
 		while(0) {
-			
+			System.out.println("Yo");
 		} // A comment
-	}
 }
 
-//sahil sharma
+//sahil sharma & John Turner
